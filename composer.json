@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/console": "^4.1",
+        "seftomsk/brackets": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Seftomsk\\BracketsApp\\": "src/"
+        }
+    }
+}
